@@ -144,7 +144,7 @@
               ><i class="icon-equalizer"></i
             ></span></a>
             <h4><strong>Music Technology</strong></h4>
-            <p class="text-faded mb-0">I mustache you a question...</p>
+            <p class="text-faded mb-0">Test</p>
           </div>
         </div>
       </div>
