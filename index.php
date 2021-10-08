@@ -81,7 +81,7 @@
     </nav>
 
     <div class="video__container">
-      <video class="video__header" autoplay loop muted>
+      <video class="video__header" playsinline autoplay loop muted>
         <source src="assets/Video/TextTest1.mp4" type="video/mp4" poster="assets/img/Text.png"/>
         <source src="assets/Video/TextTest1WEBM.webm" type="video/webm" poster="assets/img/Text.png" />
         <source src="assets/Video/TextTest1OGG.ogg" type="video/ogg" poster="assets/img/Text.png" />
