@@ -9,7 +9,7 @@
     />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Stylish Portfolio - Start Bootstrap Template</title>
+    <title>Jonathan Danner's Portfoio</title>
 
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
