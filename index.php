@@ -48,10 +48,10 @@
         </div>
       </div>
 
-      <audio src="music/ukulele.mp3" id="audio"></audio>
+      <audio src="music/Ding Dream.mp3" id="audio"></audio>
 
       <div class="music-img-container">
-        <img src="images/ukulele.jpg" alt="music-cover" id="cover" />
+        <img src="images/Ding Dream.jpg" alt="music-cover" id="cover" />
       </div>
       <div class="navigation">
         <button id="prev" class="action-btn">
