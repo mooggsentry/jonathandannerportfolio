@@ -75,7 +75,7 @@
         <li class="sidebar-nav-item"><a href="#services">Services</a></li>
         <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
         <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
-        <li class="sidebar-nav-item"><a href=http://jonathandanner.com>Resume</a></li>
+        <li class="sidebar-nav-item"><a href="http://jonathandanner.com" target="_blank">Resume</a></li>
       </ul>
     </nav>
 
@@ -110,7 +110,7 @@
         </div>
         <div class="row gx-4 gx-lg-5">
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <a style="text-decoration: none;" href="https://drive.google.com/drive/u/1/folders/1xbcCf2LDJl86rDzyoZVIK2MSKX5EubN0">
+            <a style="text-decoration: none;" href="https://drive.google.com/drive/u/1/folders/1xbcCf2LDJl86rDzyoZVIK2MSKX5EubN0" target="_blank">
               <span class="service-icon rounded-circle mx-auto mb-3"
               ><i class="icon-book-open"></i
             ></span></a>
@@ -118,7 +118,7 @@
             <p class="text-faded mb-0">Looks great on any screen size!</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
-            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1GJqtup6tqGHU6mC9IkC5v31ygoDdg3pi?usp=sharing">
+            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1GJqtup6tqGHU6mC9IkC5v31ygoDdg3pi?usp=sharing" target="_blank">
             <span class="service-icon rounded-circle mx-auto mb-3"
               ><i class="icon-music-tone-alt"></i
             ></span></a>
@@ -126,7 +126,7 @@
             <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
-            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1IrsMvgOk_V-bXGoNflTwJADAlFkFfaJD?usp=sharing">
+            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1IrsMvgOk_V-bXGoNflTwJADAlFkFfaJD?usp=sharing" target="_blank">
             <span class="service-icon rounded-circle mx-auto mb-3"
               ><i class="icon-film"></i
             ></span></a>
@@ -138,7 +138,7 @@
             </p>
           </div>
           <div class="col-lg-3 col-md-6">
-            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1e3PS_MwnndoPaiMnAO22uuAD09yqQfxn?usp=sharing">
+            <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1e3PS_MwnndoPaiMnAO22uuAD09yqQfxn?usp=sharing" target="_blank">
             <span class="service-icon rounded-circle mx-auto mb-3"
               ><i class="icon-equalizer"></i
             ></span></a>
