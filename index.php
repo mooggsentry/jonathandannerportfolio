@@ -74,7 +74,6 @@
         <li class="sidebar-nav-item"><a href="#page-top">Creativity</a></li>
         <li class="sidebar-nav-item"><a href="#services">Services</a></li>
         <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
-        <li class="sidebar-nav-item"><a href="#contact">Contact</a></li>
         <li class="sidebar-nav-item"><a href="http://jonathandanner.com" target="_blank">Resume</a></li>
       </ul>
     </nav>
@@ -149,7 +148,7 @@
     <!-- Callout-->
     <section class="callout">
       <div class="container px-4 px-lg-5 text-center">
-        <h2 class="mx-auto mb-5">
+        <h2 style="color:black;" class="mx-auto mb-5">
           Check out my full portfolio
         </h2>
         <a
@@ -160,11 +159,11 @@
       </div>
     </section>
     <!-- Portfolio-->
-    <section class="content-section" id="portfolio">
+    <section style="background-color:#002a35;" class="content-section" id="portfolio">
       <div class="container px-4 px-lg-5">
         <div class="content-section-heading text-center">
           <h3 class="text-secondary mb-0">Portfolio</h3>
-          <h2 class="mb-5">Recent Projects</h2>
+          <h2 style="color:white;" class="mb-5">Recent Projects</h2>
         </div>
         <div class="row gx-0">
           <div class="col-lg-6">

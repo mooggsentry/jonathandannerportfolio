@@ -42,7 +42,7 @@
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 196, 20, 37;
-  --bs-secondary-rgb: 236, 184, 7;
+  --bs-secondary-rgb: 255, 255, 255;
   --bs-success-rgb: 25, 135, 84;
   --bs-info-rgb: 13, 202, 240;
   --bs-warning-rgb: 236, 184, 7;
@@ -2989,7 +2989,7 @@ textarea.form-control-lg {
   display: inline-block;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #C41425;
   text-align: center;
   text-decoration: none;
   vertical-align: middle;
@@ -3024,13 +3024,13 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #1D809F;
-  border-color: #1D809F;
+  background-color: #C41425;
+  border-color: #C41425;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #196d87;
-  border-color: #17667f;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
   color: #fff;
@@ -11281,7 +11281,7 @@ html {
 
 .content-section {
   padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-bottom: 7.5rem
 }
 
 .content-section-heading h2, .content-section-heading .h2 {
@@ -11409,6 +11409,7 @@ html {
 .callout {
   padding: 15rem 0;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-callout.jpg");
+
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11514,7 +11515,7 @@ footer.footer .social-link:hover {
             clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: rgba(255, 255, 255, 0.3);
     -webkit-clip-path: inset(2rem);
             clip-path: inset(2rem);
   }
