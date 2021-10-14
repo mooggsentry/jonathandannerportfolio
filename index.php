@@ -150,14 +150,12 @@
     <section class="callout">
       <div class="container px-4 px-lg-5 text-center">
         <h2 class="mx-auto mb-5">
-          Welcome to
-          <em>your</em>
-          next website!
+          Check out my full portfolio
         </h2>
         <a
           class="btn btn-primary btn-xl"
-          href="https://startbootstrap.com/theme/stylish-portfolio/"
-          >Download Now!</a
+          href="https://drive.google.com/drive/folders/1AF9dgQH-aMAy_Tk7jFBHSEMKgkL2nT1p?usp=sharing" target="_blank"
+          >Here!</a
         >
       </div>
     </section>
@@ -170,12 +168,12 @@
         </div>
         <div class="row gx-0">
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#!">
+            <a class="portfolio-item" href="https://drive.google.com/drive/folders/1lcZZpcDlxBp6ggYOc8ekPVuGdY6KlRC-?usp=sharing" target="_blank">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Stationary</div>
+                  <div class="h2">Composition</div>
                   <p class="mb-0">
-                    A yellow pencil with envelopes on a clean, blue backdrop!
+                    Jonathan Danner - Calm and Storm
                   </p>
                 </div>
               </div>
@@ -187,13 +185,12 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#!">
+            <a class="portfolio-item" href="https://drive.google.com/file/d/1hgnzxo3FdAT9G2Iu1mrxeXwv7HT9aPIn/view?usp=sharing" target="_blank">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Ice Cream</div>
+                  <div class="h2">Research</div>
                   <p class="mb-0">
-                    A dark blue background with a colored pencil, a clip, and a
-                    tiny ice cream cone!
+                    Undergraduate Capstone Project created with ClyphX
                   </p>
                 </div>
               </div>
@@ -208,10 +205,9 @@
             <a class="portfolio-item" href="#!">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Strawberries</div>
+                  <div class="h2">Film Composition</div>
                   <p class="mb-0">
-                    Strawberries are such a tasty snack, especially with a
-                    little sugar on top!
+                  Yasin Muhammad - It Never Sleeps
                   </p>
                 </div>
               </div>
@@ -223,13 +219,12 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#!">
+            <a class="portfolio-item" href="https://drive.google.com/file/d/1t-g0wLdHbGhzipkCNqvnCepkz0L6nLoZ/view?usp=sharing" target="_blank">
               <div class="caption">
                 <div class="caption-content">
-                  <div class="h2">Workspace</div>
+                  <div class="h2">Public Performance</div>
                   <p class="mb-0">
-                    A yellow workspace with some scissors, pencils, and other
-                    objects.
+                    WCU Tech Ensemble Performance
                   </p>
                 </div>
               </div>
@@ -283,9 +278,9 @@
             ></a>
           </li>
         </ul>
-        <p class="text-muted small mb-0">Copyright &copy; Your Website 2021</p>-->
+        <p class="text-muted small mb-0">Copyright &copy; Your Website 2021</p>
       </div>
-    </footer>
+    </footer> -->
     <!-- Scroll to Top Button-->
     <a class="scroll-to-top rounded" href="#page-top"
       ><i class="fas fa-angle-up"></i
