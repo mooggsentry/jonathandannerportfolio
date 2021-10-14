@@ -115,7 +115,7 @@
               ><i class="icon-book-open"></i
             ></span></a>
             <h4><strong>Music Compositions</strong></h4>
-            <p class="text-faded mb-0">Looks great on any screen size!</p>
+            <p class="text-faded mb-0">Electronic and Symphonic</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-lg-0">
             <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1GJqtup6tqGHU6mC9IkC5v31ygoDdg3pi?usp=sharing" target="_blank">
@@ -123,7 +123,7 @@
               ><i class="icon-music-tone-alt"></i
             ></span></a>
             <h4><strong>Music Productions</strong></h4>
-            <p class="text-faded mb-0">Freshly redesigned for Bootstrap 5.</p>
+            <p class="text-faded mb-0">Soundscapes and Compositions</p>
           </div>
           <div class="col-lg-3 col-md-6 mb-5 mb-md-0">
             <a style="text-decoration: none;" href="https://drive.google.com/drive/folders/1IrsMvgOk_V-bXGoNflTwJADAlFkFfaJD?usp=sharing" target="_blank">
@@ -132,9 +132,7 @@
             ></span></a>
             <h4><strong>Music For Film</strong></h4>
             <p class="text-faded mb-0">
-              Millions of users
-              <i class="fas fa-heart"></i>
-              Start Bootstrap!
+              Cinematic and Documentary
             </p>
           </div>
           <div class="col-lg-3 col-md-6">
@@ -143,7 +141,7 @@
               ><i class="icon-equalizer"></i
             ></span></a>
             <h4><strong>Music Technology</strong></h4>
-            <p class="text-faded mb-0">Test</p>
+            <p class="text-faded mb-0">Research and Applications</p>
           </div>
         </div>
       </div>
@@ -245,15 +243,15 @@
         </div>
       </div>
     </section>
-    <!-- Call to Action-->
+    <!-- Call to Action
     <section class="content-section bg-primary text-white">
       <div class="container px-4 px-lg-5 text-center">
         <h2 class="mb-4">The buttons below are impossible to resist...</h2>
         <a class="btn btn-xl btn-light me-4" href="#!">Click Me!</a>
         <a class="btn btn-xl btn-dark" href="#!">Look at Me!</a>
       </div>
-    </section>
-    <!-- Map-->
+    </section>-->
+    <!-- Map
     <div class="map" id="contact">
       <iframe
         src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"
@@ -264,8 +262,8 @@
           href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"
         ></a
       ></small>
-    </div>
-    <!-- Footer-->
+    </div>-->
+    <!-- Footer
     <footer class="footer text-center">
       <div class="container px-4 px-lg-5">
         <ul class="list-inline mb-5">
@@ -285,7 +283,7 @@
             ></a>
           </li>
         </ul>
-        <p class="text-muted small mb-0">Copyright &copy; Your Website 2021</p>
+        <p class="text-muted small mb-0">Copyright &copy; Your Website 2021</p>-->
       </div>
     </footer>
     <!-- Scroll to Top Button-->
