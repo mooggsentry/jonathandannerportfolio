@@ -40,7 +40,7 @@
   <body id="page-top">
     <!--COPIED AND PASTED THE MUSIC CONTAINER DIV FROM THE MUSIC'S HTML -->
 
-    <div class="music-container hidden-xs" id="music-container">
+    <div class="music-container hidden-xs hidden-sm" id="music-container">
       <div class="music-info">
     <!--  <h4 id="title"></h4> -->
         <div class="progress-container" id="progress-container">
