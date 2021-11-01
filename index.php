@@ -40,7 +40,7 @@
   <body id="page-top">
     <!--COPIED AND PASTED THE MUSIC CONTAINER DIV FROM THE MUSIC'S HTML -->
 
-    <div class="music-container hidden" id="music-container">
+    <div class="music-container hidden-xs hidden-sm" id="music-container">
       <div class="music-info">
     <h4 id="title"></h4>
         <div class="progress-container" id="progress-container">
@@ -222,7 +222,7 @@
               <div class="caption">
                 <div class="caption-content">
                   <div class="h2">Public Performance</div>
-                  <p class="mb-0">
+                  <p class="mb-0 hidden-xs">
                     WCU Tech Ensemble Performance
                   </p>
                 </div>
