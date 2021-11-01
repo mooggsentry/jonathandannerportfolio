@@ -41,8 +41,8 @@
 
   <body id="page-top">
     <!--COPIED AND PASTED THE MUSIC CONTAINER DIV FROM THE MUSIC'S HTML -->
-
-    <div class="music-container hidden-xs" id="music-container">
+  <div class="hidden-xs">
+    <div class="music-container" id="music-container">
       <div class="music-info">
     <h4 id="title"></h4>
         <div class="progress-container" id="progress-container">
@@ -67,6 +67,7 @@
         </button>
       </div>
     </div>
+  </div>
 
     <!-- Navigation-->
     <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
