@@ -41,7 +41,7 @@
 
   <body id="page-top">
     <!--COPIED AND PASTED THE MUSIC CONTAINER DIV FROM THE MUSIC'S HTML -->
-  <div class="d-none d-sm-block">
+  <div class="d-none d-md-block">
     <div class="music-container" id="music-container">
       <div class="music-info">
     <h4 id="title"></h4>
