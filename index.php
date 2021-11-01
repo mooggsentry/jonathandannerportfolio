@@ -29,6 +29,8 @@
     />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
+    <link rel=”stylesheet” href=”https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css”rel=”nofollow” integrity=”sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm” crossorigin=”anonymous”>
+
     <!-- LINKED THE CSS FILE FROM THE MUSIC CSS -->
     <link rel="stylesheet" href="./css/musicStyles.css" />
     <link
@@ -40,7 +42,7 @@
   <body id="page-top">
     <!--COPIED AND PASTED THE MUSIC CONTAINER DIV FROM THE MUSIC'S HTML -->
 
-    <div class="music-container hidden-xs hidden-sm" id="music-container">
+    <div class="music-container hidden-xs" id="music-container">
       <div class="music-info">
     <h4 id="title"></h4>
         <div class="progress-container" id="progress-container">
@@ -222,7 +224,7 @@
               <div class="caption">
                 <div class="caption-content">
                   <div class="h2">Public Performance</div>
-                  <p class="mb-0 hidden-xs">
+                  <p class="mb-0">
                     WCU Tech Ensemble Performance
                   </p>
                 </div>
