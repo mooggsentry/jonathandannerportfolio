@@ -74,7 +74,7 @@
     <nav id="sidebar-wrapper">
       <ul class="sidebar-nav">
         <li class="sidebar-brand"><a href="#page-top">Navigation</a></li>
-        <li class="sidebar-nav-item"><a href="#page-top">Creativity</a></li>
+        <li class="sidebar-nav-item"><a href="#services">Creativity</a></li>
         <li class="sidebar-nav-item"><a href="#portfolio">Portfolio</a></li>
         <li class="sidebar-nav-item"><a href="http://jonathandanner.com" target="_blank">Resume</a></li>
       </ul>
